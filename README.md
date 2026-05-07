@@ -27,7 +27,7 @@ A hand-drawn VPC architecture diagram built in draw.io, mapping a
 basic 3-tier network with public and private subnets, CIDR allocation,
 routing logic, security groups, and NACLs.
 
-![Week 2 VPC Diagram](./screensots/week2-vpc-diagram.png)
+![Week 2 VPC Diagram](./screenshots/week2-vpc-diagram.png)
 *Initial architecture diagram — freehand, draw.io. Known gaps documented above.*
 
 **Honest note on the diagram:** The NACL placement was conceptually
